@@ -1,6 +1,6 @@
 # Schema, vecka 27
 
-###### Agila projektmetoder & verktyg, vecka 1 av 1
+###### JavaScript, vecka 1 av 6
 
 ## Mål för veckan:
 1. Förståelse för vad JavaScript är och vad det används till
