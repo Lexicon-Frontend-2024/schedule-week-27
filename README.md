@@ -16,6 +16,7 @@
 [JavaScript Tutorial Guide](https://www.w3schools.com/js/)
 
 ## Övningar:
+[Computational Thinking Games](https://github.com/Lexicon-Frontend-2024/exercise-computational-thinking-games)
 
 ## Slides:
 
