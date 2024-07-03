@@ -17,9 +17,11 @@
 
 ## Övningar:
 [Computational Thinking Games](https://github.com/Lexicon-Frontend-2024/exercise-computational-thinking-games)
+
 [Varables & Data Types](https://github.com/Lexicon-Frontend-2024/exercise-variables-data-types)
 
 ## Slides:
 [Datalogiskt tänkande](https://docs.google.com/presentation/d/13CtjmEz_yLvmpvim6IAzquIqzJ87Wpfu4pNUo0jFcSc)
+
 [Grundläggande JavaScript](https://docs.google.com/presentation/d/1om0xpdCwdhISmljJbGc0RxFfeGwxEGq)
 
