@@ -25,3 +25,6 @@
 
 [Grundläggande JavaScript](https://docs.google.com/presentation/d/1om0xpdCwdhISmljJbGc0RxFfeGwxEGqj/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
+## Lektionsrepon:
+* [8 juli](https://github.com/Lexicon-Frontend-2024/lecture-8-july)
+
